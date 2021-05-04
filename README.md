@@ -18,8 +18,8 @@ Requirements:
 
 
 
-Notes: 
+Notes:
 - V0.80 has out of memory errors after playing for a while.
 
-Future Features: 
+Future Features:
 - *Spin* the reels, like a real slot machine,
