@@ -12,14 +12,14 @@
 Readable, Modular and Easier to work on.
 
 Requirements:  
-    pip install soundfile  
-    pip install sounddevice  
-    pip install numpy  
+- pip install soundfile  
+- pip install sounddevice  
+- pip install numpy  
 
 
 
 Notes:  
-    V0.80 has out of memory errors after playing for a while.
+- V0.80 has out of memory errors after playing for a while.
 
 Future Features:  
-    *Spin* the reels, like a real slot machine,
+- *Spin* the reels, like a real slot machine,
