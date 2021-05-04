@@ -9,7 +9,7 @@
 ### The slot machine has freespins, bonuses and holds.
 
 ### I am writing this in my usual 'IDMTIMTB' style
-- **Readable, Modular and Easier** to work on.
+- **Readable, Modular and Easier** to work on.  
   
   
 Requirements:
