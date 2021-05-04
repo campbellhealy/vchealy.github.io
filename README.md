@@ -7,21 +7,20 @@
 (https://stevepython.files.wordpress.com/2020/05/ss6.png?w=366&h=494)
 
 
-## The slot machine has freespins, bonuses and holds.
+### The slot machine has freespins, bonuses and holds.
 
-## I am writing this in my usual 'IDMTIMTB' style
-## Readable, Modular and Easier to work on.
+### I am writing this in my usual 'IDMTIMTB' style
+### Readable, Modular and Easier to work on.
 
 **Requirements:**
-    ```
     pip install soundfile
     pip install sounddevice
     pip install numpy
-    ```
+
 
 
 **Notes:** 
-    [] V0.80 has out of memory errors after playing for a while.
+    V0.80 has out of memory errors after playing for a while.
 
 **Future Features:**
-    [] *Spin* the reels, like a real slot machine,
+    *Spin* the reels, like a real slot machine,
